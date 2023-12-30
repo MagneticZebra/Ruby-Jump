@@ -1,7 +1,7 @@
 # Ruby Jump
 
 ## Overview
-"Ruby Jump" is an interactive web-based game designed to provide an engaging and fun experience. Players navigate a character through various levels, jumping over obstacles and collecting points. This game is built using HTML, CSS, and JavaScript, featuring smooth animations and responsive gameplay.
+Ruby Jump is an interactive web-based game designed to provide an engaging and fun experience. Players navigate a character (Ruby) through various levels, jumping over obstacles and collecting cash. This game is built using HTML, CSS, and JavaScript, featuring smooth and responsive gameplay.
 
 ## Requirements
 - Any modern web browser (e.g., Chrome, Firefox, Safari)
