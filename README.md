@@ -1,4 +1,5 @@
 # Ruby Jump
+![image](https://github.com/MagneticZebra/Ruby-Jump/assets/87204308/d9cb4377-978d-4c9f-bf0a-772d40622fd9)
 
 ## Overview
 Ruby Jump is an interactive web-based game designed to provide an engaging and fun experience. Players navigate a character (Ruby) through various levels, jumping over obstacles and collecting cash. This game is built using HTML, CSS, and JavaScript, featuring smooth and responsive gameplay.
