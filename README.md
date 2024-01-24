@@ -1,7 +1,7 @@
 # Ruby Jump
 ![image](https://github.com/MagneticZebra/Ruby-Jump/assets/87204308/d9cb4377-978d-4c9f-bf0a-772d40622fd9)
 
-## See it in action
+## See it in action (press space to start)
 https://rubyjump.netlify.app/
 
 ## Overview
