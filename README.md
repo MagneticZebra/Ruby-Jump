@@ -14,7 +14,7 @@ Ruby Jump is an interactive web-based game designed to provide an engaging and f
 To play "Ruby Jump":
 1. Download the repository containing `index.html`, `ruby.js`, and `ruby.css`.
 2. Open `index.html` in your web browser.
-3. Start playing by navigating the character using keyboard inputs.
+3. Start playing by navigating the character using the space bar
 
 ## Features
 - Interactive gameplay with responsive controls.
